@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Júlia Carlos! 👋  
 
-<!--
-**JuliaCarlosDev/JuliaCarlosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do último ano de **Análise e Desenvolvimento de Sistemas** na **PUC-GO**.  
+💻 Aprendendo **JavaScript** para desenvolvimento **back-end**.  
+🎮 Apaixonada por **Minecraft** e programação.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Interesses  
+- **JavaScript** aplicado ao desenvolvimento back-end  
+- Sempre buscando aprender e evoluir na programação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/juliacarlosdev)  
+
+Vamos aprender juntos! 🚀  
